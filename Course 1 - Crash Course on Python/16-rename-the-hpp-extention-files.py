@@ -5,10 +5,6 @@ Given a list of filenames, we want to rename all the files with extension hpp to
 filenames = ["program.c", "stdio.hpp", "sample.hpp", "a.out", "math.hpp", "hpp.out"]
 # Generate newfilenames as a list containing the new filenames
 # using as many lines of code as your chosen method requires.
-newfilenames = []
-for filename in filenames:
-    if filename.split('.')[-1] == "hpp":
-        filename = filename.split('.')[0] + ".h"
-    newfilenames.append(filename)
+newfilenames = [filename.replace(".hpp", ".h") for filename in filenames]
 print(newfilenames)
 # Should be ["program.c", "stdio.h", "sample.h", "a.out", "math.h", "hpp.out"]
