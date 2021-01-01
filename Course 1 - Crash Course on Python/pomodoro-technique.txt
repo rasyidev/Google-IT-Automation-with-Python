@@ -1,0 +1,58 @@
+How Failing With Pomodoro Technique Made Me 2x Better Programmer
+Trying to make Pomodoro Technique work for me started with struggling. But that taught me a lot! And eventually led to building great habits around coding, journaling, eating healthier and many-many more. Surprisingly, but Pomodoro even muscled me up! These topics are what I am covering in my Pomodoro Series. You can check them out to steal my experience.
+
+For now I am going to share my first experience following the Pomodoro Technique. And in the beginning it was not great. At all.
+
+My shortened list of struggles with Pomodoro
+Struggle to stop
+The main problem was to stop whatever I was doing. «Hey, I am in the middle of something! How on Earth I should make a break if I am trying to focus?». It did not felt right to make a break while being in the middle of doing something. The break was the enemy. Doing a break was perceived as a waste of time.
+
+Hard to continue
+I felt like I was loosing momentum. Picking up after a break was messy and resourceful.
+
+No positive affirmation
+25 minutes has passed but I did not feel any productivity. It seemed to me like I was following the rules but the end result was not that rewarding. Speaking precisely, in stead of feeling more productive and satisfied I felt more like annoyed.
+
+What I was doing wrong?
+
+Why I was failing with Pomodoro
+So my implementation of Pomodoro Technique is buggy. Let's debug it! And here is a break point I have started from:
+
+My process of coding is too sensitive to pauses.
+
+Well, hmmm, okay. But... why? Fast forward dozens of broken pomodoros and here is the answer.
+
+Task switching is the problem
+I was focusing on a specific task but still managed to jump all around between micro tasks making the process chaotic. All those tiny things were indeed connected with the main goal but jumping all around them was tricky to notice.
+
+Task switching, or set-shifting, is an executive function that involves the ability to unconsciously shift attention between one task and another.
+
+The dangerous part is that it happens unconsciously.
+
+I could start with one thing, then switch to another one (very related), then switch again and again while not finishing any of them. But after ten of those switches I ended up with a thing barely connected to the initial task.
+
+For years this «feature» of mine was unnoticed. Sad! But true.
+
+And it turned out to be a very valuable piece of self-observation. Now I will share what I came out with to deal with it.
+
+How to Stop Task Switching  My Small Habit With Big Benefits
+Beware  it may sound silly! But in order to fix a problem with pomodoro breaks all I had to do was... interrupt my switches! Breaking the breaks with more breaks!
+
+Let me unconfuse you.
+
+Constantly asking myself what the hell am I doing, literally. And actually answer.
+
+This trick helped me to catch myself switching from one task to another, forced me to articulate current goals and keeped me more focused.
+
+'Solution'
+
+Basically I was breaking a bad habit of task switching.
+
+Results
+As the result my process of coding became much more «pausable». I can take a break and have a much more clear understanding where am I in the process. This clarity leads to understanding not only what am I doing but what I have actually done. Also after a Pomodoro break I can much more easily restore the context and continue nailing it.
+
+Victory!
+
+Hey! I have wrote just 5% from what I want to share! Please, do subscribe to my blog to not miss good stuff. And follow me on twitter!
+
+And what was your first experience with Pomodoro Technique?
