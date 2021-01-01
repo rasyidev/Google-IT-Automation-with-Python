@@ -1,3 +1,5 @@
+
+from abc import ABC, abstractmethod
 class PayrollSystem:
    def calculate_payroll(self, employees):
       print('Calculating Payroll')
@@ -7,11 +9,14 @@ class PayrollSystem:
          print(f'- Check amount: {employee.calculate_payroll()}')
          print('')
 
-class Employee:
+class Employee(ABC):
    def __init__(self, id, name):
       self.id = id
       self.name = name
 
+   @abstractmethod
+   def calculate_payroll(self):
+      pass
 
 class SalaryEmployee(Employee):
    def __init__(self, id, name, weekly_salary):
@@ -38,4 +43,3 @@ class CommissionEmployee(SalaryEmployee):
    def calculate_payroll(self):
       fixed = super().calculate_payroll()
       return fixed + self.commission
-
